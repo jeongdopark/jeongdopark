@@ -1,8 +1,7 @@
 
 <div align='center'>
   
-#### ✉️ jeongdo.dev@gmail.com  
-#### [📌 tech blog](https://parkjeongdo.tistory.com)
+### ✉️ jeongdo.dev@gmail.com  
 <br/>
 
 
